@@ -1,3 +1,3 @@
 inp = input('Enter your name')
 
-print(f'Hello {inp}')
+print('Hello' + inp)
